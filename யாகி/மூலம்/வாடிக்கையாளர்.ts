@@ -2,7 +2,7 @@ import type {
   நிரல்மொழி_இலக்கணம்_வகை,
   நிரல்மொழி_மொழியாக்கம்_வகை,
 } from "@/வகைகள்";
-import type { default as ClientConstellation } from "@constl/ipa";
+import type { ClientConstellation } from "@constl/ipa";
 import { sort } from "semver";
 import { மொழி_தகவல்கள், மொழி_மொழிபெயர்ப்புகள் } from "@/நிரல்மொழிகள்.js";
 
